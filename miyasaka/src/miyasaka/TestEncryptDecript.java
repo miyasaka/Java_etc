@@ -9,6 +9,7 @@ import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
 import javax.xml.bind.DatatypeConverter;
 
+// test
 public class TestEncryptDecript {
 	public static void main(String[] args) {
 		String JamRNo ="00982130009";
